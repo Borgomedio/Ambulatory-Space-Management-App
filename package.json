@@ -1,0 +1,10 @@
+{
+  "name": "mia-app",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "vite",
+    "build": "webpack",
+    "preview": "vite preview"
+  }
+}
